@@ -1,0 +1,105 @@
+{
+    "123456789": {
+        "nome": "JOAO",
+        "apelido": "GIL",
+        "nascimento": "20030106",
+        "sexo": "M",
+        "exame": {
+            "12345": {
+                "tipo": "Análises Clínicas",
+                "data_realizacao": "202504071100",
+                "relatorio": {
+                    "descricao": "Estudo bem",
+                    "texto": "Estudo bem\n",
+                    "data_processamento": "20250407125101"
+                }
+            }
+        },
+        "marcacoes": []
+    },
+    "987654321": {
+        "nome": "FILIPA",
+        "apelido": "COSTA",
+        "nascimento": "20030111",
+        "sexo": "F",
+        "exame": {
+            "9876543": {
+                "tipo": "Raio-X",
+                "data_realizacao": "202504071100",
+                "relatorio": {}
+            },
+            "765321": {
+                "tipo": "Ecografia",
+                "data_realizacao": "202506041100",
+                "relatorio": {
+                    "descricao": "Tudo normal",
+                    "texto": "Tudo normal\n",
+                    "data_processamento": "20250406195701"
+                }
+            }
+        },
+        "marcacoes": [
+            {
+                "id": "9876543",
+                "tipo": "Raio-X",
+                "data": "202504071100"
+            }
+        ]
+    },
+    "456789123": {
+        "nome": "ANA",
+        "apelido": "ANDRADE",
+        "nascimento": "20040112",
+        "sexo": "F",
+        "exame": {},
+        "marcacoes": []
+    },
+    "67891245": {
+        "nome": "BEATRIZ",
+        "apelido": "CUNHA",
+        "nascimento": "20030916",
+        "sexo": "G",
+        "exame": {},
+        "marcacoes": []
+    },
+    "678912345": {
+        "nome": "BEATRIZ",
+        "apelido": "CUNHA",
+        "nascimento": "20030916",
+        "sexo": "F",
+        "exame": {
+            "678912": {
+                "tipo": "Raio-X",
+                "data_realizacao": "202504081100",
+                "relatorio": {}
+            }
+        },
+        "marcacoes": [
+            {
+                "id": "678912",
+                "tipo": "Raio-X",
+                "data": "202504081100"
+            }
+        ]
+    },
+    "891234567": {
+        "nome": "ALEXANDRA ",
+        "apelido": "MENDES",
+        "nascimento": "20030806",
+        "sexo": "F",
+        "exame": {
+            "891234": {
+                "tipo": "TAC",
+                "data_realizacao": "202506011500",
+                "relatorio": {}
+            }
+        },
+        "marcacoes": [
+            {
+                "id": "891234",
+                "tipo": "TAC",
+                "data": "202506011500"
+            }
+        ]
+    }
+}
